@@ -1,8 +1,9 @@
 #include "binary_trees.h"
 /**
- *
- *
- *
+ * birary_tree_node - funtion that create a new node
+ * @parent: pointer to the parent node 
+ * @value: integer sorted in the node
+ * return: pointer to the new node
  */
 binary_tree_t *binary_tree_node(binary_tree_t *parent, int value)
 {
