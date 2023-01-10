@@ -1,7 +1,7 @@
 #include "binary_trees.h"
 /**
  * binary_tree_node - funtion that create a new node
- * @parent: pointer to the parent node 
+ * @parent: pointer to the parent node
  * @value: integer sorted in the node
  * Return: pointer to the new node
  */
