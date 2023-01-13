@@ -1,6 +1,6 @@
 #include "binary_trees.h"
 /**
- * bianry_tree_is_leaf - func
+ * binary_tree_is_leaf - func
  * @node: node to check
  * Return: nothing
  */
