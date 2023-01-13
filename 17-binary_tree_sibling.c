@@ -21,3 +21,4 @@ binary_tree_t *binary_tree_sibling(binary_tree_t *node)
 			|| (node->left == temp && node->right == NULL))
 		return (NULL);
 	return (node);
+}
